@@ -3,6 +3,12 @@
 
 int main()
 {
+             printf("3...\n");
+             Sleep(2000);
+             printf("2...\n");
+             Sleep(2000);
+             printf("1...\n\n");
+             Sleep(1000);
              printf("We're no strangers to love\n");
              Sleep(3000);
              printf("You know the rules, and so do I\n");
